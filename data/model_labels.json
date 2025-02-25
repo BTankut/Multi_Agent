@@ -1,0 +1,947 @@
+[
+  {
+    "model": "Perplexity: R1 1776",
+    "labels": ["general_assistant", "reasoning_expert"]
+  },
+  {
+    "model": "Mistral: Saba",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Dolphin3.0 R1 Mistral 24B (free)",
+    "labels": ["general_assistant", "instruction_following", "free"]
+  },
+  {
+    "model": "Dolphin3.0 Mistral 24B (free)",
+    "labels": ["general_assistant", "instruction_following", "free"]
+  },
+  {
+    "model": "Llama Guard 3 8B",
+    "labels": ["instruction_following", "safety_focused"]
+  },
+  {
+    "model": "OpenAI: o3 Mini High",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Llama 3.1 Tulu 3 405B",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "DeepSeek: R1 Distill Llama 8B",
+    "labels": ["general_assistant", "code_expert"]
+  },
+  {
+    "model": "Google: Gemini Flash 2.0",
+    "labels": ["general_assistant", "fast_response", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Google: Gemini Flash Lite 2.0 Preview (free)",
+    "labels": ["general_assistant", "fast_response", "free"]
+  },
+  {
+    "model": "Google: Gemini Pro 2.0 Experimental (free)",
+    "labels": ["general_assistant", "reasoning_expert", "experimental", "math_expert", "code_expert", "free"]
+  },
+  {
+    "model": "Qwen: Qwen VL Plus (free)",
+    "labels": ["vision_expert", "general_assistant", "free"]
+  },
+  {
+    "model": "AionLabs: Aion-1.0",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "AionLabs: Aion-1.0-Mini",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "AionLabs: Aion-RP 1.0 (8B)",
+    "labels": ["general_assistant", "role_playing"]
+  },
+  {
+    "model": "Qwen: Qwen-Turbo",
+    "labels": ["general_assistant", "conversationalist"]
+  },
+  {
+    "model": "Qwen2.5 VL 72B Instruct (free)",
+    "labels": ["vision_expert", "instruction_following", "general_assistant", "free"]
+  },
+  {
+    "model": "Qwen: Qwen-Plus",
+    "labels": ["general_assistant", "conversationalist"]
+  },
+  {
+    "model": "Qwen: Qwen-Max",
+    "labels": ["general_assistant", "conversationalist", "reasoning_expert", "math_expert", "code_expert"]
+  },
+  {
+    "model": "OpenAI: o3 Mini",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "DeepSeek: R1 Distill Qwen 1.5B",
+    "labels": ["general_assistant", "code_expert"]
+  },
+  {
+    "model": "Mistral: Mistral Small 3 (free)",
+    "labels": ["general_assistant", "free"]
+  },
+  {
+    "model": "Mistral: Mistral Small 3",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "DeepSeek: R1 Distill Qwen 32B",
+    "labels": ["general_assistant", "code_expert"]
+  },
+  {
+    "model": "DeepSeek: R1 Distill Qwen 14B",
+    "labels": ["general_assistant", "code_expert"]
+  },
+  {
+    "model": "Perplexity: Sonar Reasoning",
+    "labels": ["reasoning_expert", "general_assistant"]
+  },
+  {
+    "model": "Perplexity: Sonar",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Liquid: LFM 7B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Liquid: LFM 3B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "DeepSeek: R1 Distill Llama 70B (free)",
+    "labels": ["general_assistant", "code_expert", "free"]
+  },
+  {
+    "model": "DeepSeek: R1 Distill Llama 70B",
+    "labels": ["general_assistant", "code_expert"]
+  },
+  {
+    "model": "Google: Gemini 2.0 Flash Thinking Experimental 01-21 (free)",
+    "labels": ["general_assistant", "reasoning_expert", "fast_response", "experimental", "math_expert", "code_expert", "free"]
+  },
+  {
+    "model": "DeepSeek: R1 (free)",
+    "labels": ["general_assistant", "free"]
+  },
+  {
+    "model": "DeepSeek: R1",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Rogue Rose 103B v0.2 (free)",
+    "labels": ["general_assistant", "creative_writer", "free"]
+  },
+  {
+    "model": "MiniMax: MiniMax-01",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Mistral: Codestral 2501",
+    "labels": ["code_expert"]
+  },
+  {
+    "model": "Microsoft: Phi 4",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Sao10K: Llama 3.1 70B Hanami x1",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "DeepSeek: DeepSeek V3 (free)",
+    "labels": ["general_assistant", "free"]
+  },
+  {
+    "model": "DeepSeek: DeepSeek V3",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Qwen: QvQ 72B Preview",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Google: Gemini 2.0 Flash Thinking Experimental (free)",
+    "labels": ["general_assistant", "reasoning_expert", "fast_response", "experimental", "math_expert", "code_expert", "free"]
+  },
+  {
+    "model": "Sao10K: Llama 3.3 Euryale 70B",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "OpenAI: o1",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "EVA Llama 3.33 70B",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "xAI: Grok 2 Vision 1212",
+    "labels": ["vision_expert", "general_assistant", "sarcastic_tone"]
+  },
+  {
+    "model": "xAI: Grok 2 1212",
+    "labels": ["general_assistant", "sarcastic_tone"]
+  },
+  {
+    "model": "Cohere: Command R7B (12-2024)",
+    "labels": ["general_assistant", "instruction_following", "conversationalist"]
+  },
+  {
+    "model": "Google: Gemini Flash 2.0 Experimental (free)",
+    "labels": ["general_assistant", "fast_response", "experimental", "math_expert", "code_expert", "free"]
+  },
+  {
+    "model": "Google: Gemini Experimental 1206 (free)",
+    "labels": ["general_assistant", "experimental", "free"]
+  },
+  {
+    "model": "Meta: Llama 3.3 70B Instruct (free)",
+    "labels": ["instruction_following", "general_assistant", "free"]
+  },
+  {
+    "model": "Meta: Llama 3.3 70B Instruct",
+    "labels": ["instruction_following", "general_assistant"]
+  },
+  {
+    "model": "Amazon: Nova Lite 1.0",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Amazon: Nova Micro 1.0",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Amazon: Nova Pro 1.0",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Qwen: QwQ 32B Preview",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Google: LearnLM 1.5 Pro Experimental (free)",
+    "labels": ["domain_expert:education", "instruction_following", "experimental", "free"]
+  },
+  {
+    "model": "EVA Qwen2.5 72B",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "OpenAI: GPT-4o (2024-11-20)",
+    "labels": ["general_assistant", "multimodal", "reasoning_expert", "code_expert", "math_expert"]
+  },
+  {
+    "model": "Mistral Large 2411",
+    "labels": ["general_assistant", "reasoning_expert", "multilingual", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Mistral Large 2407",
+    "labels": ["general_assistant", "reasoning_expert", "multilingual", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Mistral: Pixtral Large 2411",
+    "labels": ["vision_expert", "general_assistant"]
+  },
+  {
+    "model": "xAI: Grok Vision Beta",
+    "labels": ["vision_expert", "general_assistant", "sarcastic_tone"]
+  },
+  {
+    "model": "Infermatic: Mistral Nemo Inferor 12B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Qwen2.5 Coder 32B Instruct",
+    "labels": ["code_expert", "instruction_following"]
+  },
+  {
+    "model": "SorcererLM 8x22B",
+    "labels": ["general_assistant", "reasoning_expert"]
+  },
+    {
+    "model": "EVA Qwen2.5 32B",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "Unslopnemo 12B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated)",
+    "labels": ["general_assistant", "fast_response", "safety_focused"]
+  },
+  {
+    "model": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
+    "labels": ["general_assistant", "fast_response"]
+  },
+  {
+    "model": "Anthropic: Claude 3.5 Haiku (self-moderated)",
+    "labels": ["general_assistant", "fast_response", "safety_focused"]
+  },
+  {
+    "model": "Anthropic: Claude 3.5 Haiku",
+    "labels": ["general_assistant", "fast_response"]
+  },
+  {
+    "model": "NeverSleep: Lumimaid v0.2 70B",
+    "labels": ["general_assistant", "instruction_following", "creative_writer"]
+  },
+  {
+    "model": "Magnum v4 72B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
+    "labels": ["general_assistant", "reasoning_expert", "safety_focused", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Anthropic: Claude 3.5 Sonnet",
+    "labels": ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+  },
+  {
+    "model": "xAI: Grok Beta",
+    "labels": ["general_assistant", "sarcastic_tone"]
+  },
+  {
+    "model": "Mistral: Ministral 8B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Mistral: Ministral 3B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Qwen2.5 7B Instruct",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "NVIDIA: Llama 3.1 Nemotron 70B Instruct (free)",
+    "labels": ["instruction_following", "general_assistant", "free"]
+  },
+ {
+    "model": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
+    "labels": ["instruction_following", "general_assistant"]
+  },
+  {
+    "model": "Inflection: Inflection 3 Pi",
+    "labels": ["conversationalist", "general_assistant"]
+  },
+  {
+    "model": "Inflection: Inflection 3 Productivity",
+    "labels": ["general_assistant", "productivity_focused"]
+  },
+  {
+    "model": "Google: Gemini Flash 1.5 8B",
+    "labels": ["general_assistant", "fast_response", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Magnum v2 72B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Liquid: LFM 40B MoE",
+    "labels": ["general_assistant", "reasoning_expert"]
+  },
+  {
+     "model": "Rocinante 12B",
+     "labels": ["general_assistant"]
+  },
+  {
+    "model":"Meta: Llama 3.2 3B Instruct",
+    "labels": ["instruction_following", "general_assistant"]
+  },
+  {
+     "model": "Meta: Llama 3.2 1B Instruct (free)",
+     "labels": ["instruction_following", "general_assistant", "free"]
+  },
+  {
+     "model": "Meta: Llama 3.2 1B Instruct",
+     "labels": ["instruction_following", "general_assistant"]
+  },
+  {
+    "model": "Meta: Llama 3.2 90B Vision Instruct",
+    "labels": ["vision_expert", "instruction_following","general_assistant"]
+  },
+  {
+    "model": "Meta: Llama 3.2 11B Vision Instruct (free)",
+    "labels": ["vision_expert", "instruction_following", "general_assistant", "free"]
+  },
+  {
+    "model": "Meta: Llama 3.2 11B Vision Instruct",
+    "labels": ["vision_expert", "instruction_following", "general_assistant"]
+  },
+  {
+   "model": "Qwen2.5 72B Instruct",
+   "labels": ["instruction_following", "general_assistant"]
+  },
+  {
+     "model": "Qwen2-VL 72B Instruct",
+      "labels": ["vision_expert", "instruction_following", "general_assistant"]
+  },
+  {
+    "model": "NeverSleep: Lumimaid v0.2 8B",
+    "labels": ["general_assistant", "instruction_following", "creative_writer"]
+  },
+  {
+    "model": "OpenAI: o1-mini (2024-09-12)",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "OpenAI: o1-preview",
+    "labels": ["general_assistant"]
+  },
+  {
+   "model": "OpenAI: o1-preview (2024-09-12)",
+   "labels": ["general_assistant"]
+  },
+  {
+    "model": "OpenAI: o1-mini",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Mistral: Pixtral 12B",
+    "labels": ["vision_expert", "general_assistant"]
+  },
+  {
+    "model": "Cohere: Command R (08-2024)",
+    "labels": ["general_assistant", "instruction_following", "conversationalist"]
+  },
+  {
+    "model": "Cohere: Command R+ (08-2024)",
+    "labels": ["general_assistant", "reasoning_expert", "instruction_following", "conversationalist", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Qwen2-VL 7B Instruct",
+    "labels": ["vision_expert", "instruction_following", "general_assistant"]
+  },
+  {
+    "model": "Sao10K: Llama 3.1 Euryale 70B v2.2",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "Google: Gemini Flash 1.5 8B Experimental",
+    "labels": ["general_assistant", "fast_response", "experimental", "math_expert", "code_expert"]
+  },
+  {
+    "model": "AI21: Jamba 1.5 Large",
+    "labels": ["general_assistant", "instruction_following", "code_expert"]
+  },
+  {
+    "model": "AI21: Jamba 1.5 Mini",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Microsoft: Phi-3.5 Mini 128K Instruct",
+    "labels": ["instruction_following", "general_assistant", "code_expert"]
+  },
+  {
+    "model": "Nous: Hermes 3 70B Instruct",
+    "labels": ["instruction_following", "general_assistant", "creative_writer"]
+  },
+  {
+    "model": "Nous: Hermes 3 405B Instruct",
+    "labels": ["instruction_following", "general_assistant", "creative_writer"]
+  },
+  {
+    "model": "Perplexity: Llama 3.1 Sonar 405B Online",
+    "labels": ["general_assistant", "reasoning_expert", "instruction_following"]
+  },
+  {
+    "model": "OpenAI: ChatGPT-4o",
+    "labels": ["general_assistant", "multimodal", "reasoning_expert", "code_expert", "math_expert"]
+  },
+  {
+    "model": "Sao10K: Llama 3 8B Lunaris",
+    "labels": ["general_assistant", "creative_writer"]
+  },
+  {
+    "model": "Aetherwiing: Starcannon 12B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "OpenAI: GPT-4o (2024-08-06)",
+    "labels": ["general_assistant", "multimodal", "reasoning_expert", "code_expert", "math_expert"]
+  },
+  {
+    "model": "Meta: Llama 3.1 405B (base)",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Mistral Nemo 12B Celeste",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Perplexity: Llama 3.1 Sonar 8B",
+    "labels": ["general_assistant", "reasoning_expert"]
+  },
+  {
+    "model": "Perplexity: Llama 3.1 Sonar 70B",
+    "labels": ["general_assistant", "reasoning_expert"]
+  },
+  {
+    "model": "Perplexity: Llama 3.1 Sonar 70B Online",
+    "labels": ["general_assistant", "reasoning_expert"]
+  },
+  {
+    "model": "Perplexity: Llama 3.1 Sonar 8B Online",
+    "labels": ["general_assistant", "reasoning_expert"]
+  },
+  {
+    "model": "Meta: Llama 3.1 405B Instruct",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "Meta: Llama 3.1 8B Instruct (free)",
+    "labels": ["instruction_following", "general_assistant", "free"]
+  },
+  {
+    "model": "Meta: Llama 3.1 8B Instruct",
+    "labels": ["instruction_following", "general_assistant"]
+  },
+  {
+    "model": "Meta: Llama 3.1 70B Instruct",
+    "labels": ["instruction_following", "general_assistant"]
+  },
+  {
+    "model": "Mistral: Mistral Nemo (free)",
+    "labels": ["general_assistant", "free"]
+  },
+  {
+    "model": "Mistral: Mistral Nemo",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Mistral: Codestral Mamba",
+    "labels": ["code_expert"]
+  },
+  {
+    "model": "OpenAI: GPT-4o-mini",
+    "labels": ["general_assistant", "math_expert", "code_expert"]
+  },
+    {
+    "model": "OpenAI: GPT-4o-mini (2024-07-18)",
+    "labels": ["general_assistant","math_expert", "code_expert"]
+  },
+  {
+    "model": "Google: Gemma 2 27B",
+    "labels": ["general_assistant", "math_expert", "code_expert"]
+  },
+{
+    "model": "Magnum 72B",
+     "labels":["general_assistant"]
+},
+{
+   "model": "Google: Gemma 2 9B (free)",
+   "labels": ["general_assistant","math_expert", "code_expert", "free"]
+},
+{
+  "model": "Google: Gemma 2 9B",
+  "labels":["general_assistant", "math_expert", "code_expert"]
+},
+{
+  "model":"01.AI: Yi Large",
+  "labels": ["general_assistant", "math_expert", "code_expert"]
+},
+{
+ "model": "AI21: Jamba Instruct",
+  "labels":["general_assistant", "code_expert"]
+},
+{
+   "model":"Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
+    "labels": ["general_assistant", "reasoning_expert", "safety_focused", "math_expert", "code_expert"]
+},
+{
+  "model": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
+  "labels":  ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+},
+{
+   "model": "Sao10k: Llama 3 Euryale 70B v2.1",
+   "labels":["general_assistant", "instruction_following"]
+},
+{
+ "model": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
+ "labels": ["general_assistant", "instruction_following"]
+},
+{
+   "model": "Qwen 2 72B Instruct",
+    "labels": ["general_assistant", "instruction_following"]
+},
+{
+  "model":"Mistral: Mistral 7B Instruct (free)",
+   "labels":["general_assistant", "free"]
+},
+{
+ "model": "Mistral: Mistral 7B Instruct",
+ "labels": ["general_assistant"]
+},
+{
+ "model": "Mistral: Mistral 7B Instruct v0.3",
+ "labels":["general_assistant"]
+},
+{
+  "model": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+  "labels": ["general_assistant", "instruction_following", "creative_writer"]
+},
+{
+  "model": "Microsoft: Phi-3 Mini 128K Instruct (free)",
+   "labels":["instruction_following","general_assistant", "code_expert", "free"]
+},
+{
+ "model": "Microsoft: Phi-3 Mini 128K Instruct",
+ "labels": ["instruction_following", "general_assistant", "code_expert"]
+},
+{
+ "model": "Microsoft: Phi-3 Medium 128K Instruct (free)",
+ "labels":["instruction_following", "general_assistant", "code_expert", "free"]
+},
+{
+"model": "Microsoft: Phi-3 Medium 128K Instruct",
+ "labels": ["instruction_following","general_assistant", "code_expert"]
+},
+{
+ "model": "NeverSleep: Llama 3 Lumimaid 70B",
+  "labels":["general_assistant", "instruction_following", "creative_writer"]
+},
+{
+ "model":"Google: Gemini Flash 1.5",
+  "labels": ["general_assistant", "fast_response", "math_expert", "code_expert"]
+},
+{
+ "model":"DeepSeek V2.5",
+ "labels":["general_assistant", "math_expert", "code_expert"]
+},
+{
+  "model": "OpenAI: GPT-4o (2024-05-13)",
+   "labels": ["general_assistant", "multimodal", "reasoning_expert", "math_expert", "code_expert"]
+
+},
+{
+ "model":"Meta: LlamaGuard 2 8B",
+ "labels":["instruction_following", "safety_focused"]
+},
+{
+ "model": "OpenAI: GPT-4o",
+  "labels": ["general_assistant", "multimodal", "reasoning_expert", "math_expert", "code_expert"]
+},
+{
+  "model":"OpenAI: GPT-4o (extended)",
+   "labels": ["general_assistant", "multimodal", "reasoning_expert", "math_expert", "code_expert"]
+},
+{
+  "model": "NeverSleep: Llama 3 Lumimaid 8B (extended)",
+  "labels": ["general_assistant", "instruction_following", "creative_writer"]
+},
+{
+ "model":"NeverSleep: Llama 3 Lumimaid 8B",
+ "labels": ["general_assistant", "instruction_following","creative_writer"]
+},
+{
+ "model": "Fimbulvetr 11B v2",
+ "labels": ["general_assistant"]
+},
+{
+ "model": "Meta: Llama 3 8B Instruct (free)",
+ "labels": ["instruction_following", "general_assistant", "free"]
+},
+{
+"model": "Meta: Llama 3 8B Instruct",
+"labels":["instruction_following", "general_assistant"]
+},
+{
+  "model": "Meta: Llama 3 70B Instruct",
+ "labels":["instruction_following", "general_assistant"]
+},
+{
+ "model": "Mistral: Mixtral 8x22B Instruct",
+ "labels": ["general_assistant", "instruction_following", "code_expert", "math_expert"]
+},
+{
+ "model":"WizardLM-2 8x22B",
+ "labels":["code_expert", "general_assistant", "math_expert"]
+},
+{
+ "model": "WizardLM-2 7B",
+ "labels":["general_assistant"]
+},
+{
+"model":"Google: Gemini Pro 1.5",
+ "labels": ["general_assistant", "math_expert", "code_expert"]
+},
+{
+ "model":"OpenAI: GPT-4 Turbo",
+ "labels":["general_assistant", "reasoning_expert", "multimodal", "math_expert", "code_expert"]
+},
+{
+  "model": "Cohere: Command R+",
+ "labels": ["general_assistant", "reasoning_expert", "instruction_following", "conversationalist", "math_expert", "code_expert"]
+},
+{
+ "model": "Cohere: Command R+ (04-2024)",
+ "labels":["general_assistant", "reasoning_expert", "instruction_following", "conversationalist", "math_expert", "code_expert"]
+},
+{
+ "model": "Databricks: DBRX 132B Instruct",
+"labels": ["general_assistant", "instruction_following", "math_expert", "code_expert"]
+},
+{
+ "model": "Midnight Rose 70B",
+ "labels": ["general_assistant", "creative_writer"]
+},
+{
+ "model": "Cohere: Command",
+ "labels": ["general_assistant", "conversationalist"]
+},
+{
+ "model": "Cohere: Command R",
+"labels": ["general_assistant", "instruction_following", "conversationalist"]
+},
+{
+ "model":"Anthropic: Claude 3 Haiku (self-moderated)",
+  "labels": ["general_assistant", "fast_response", "safety_focused"]
+},
+{
+ "model": "Anthropic: Claude 3 Haiku",
+ "labels": ["general_assistant", "fast_response"]
+},
+{
+ "model":"Anthropic: Claude 3 Opus (self-moderated)",
+  "labels": ["general_assistant", "reasoning_expert", "safety_focused", "math_expert", "code_expert"]
+},
+{
+"model": "Anthropic: Claude 3 Opus",
+"labels": ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+},
+{
+  "model":"Anthropic: Claude 3 Sonnet (self-moderated)",
+ "labels": ["general_assistant", "reasoning_expert", "safety_focused", "math_expert", "code_expert"]
+},
+{
+ "model": "Anthropic: Claude 3 Sonnet",
+ "labels": ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+},
+{
+  "model": "Cohere: Command R (03-2024)",
+ "labels":["general_assistant", "instruction_following", "conversationalist"]
+},
+{
+"model":"Mistral Large",
+ "labels": ["general_assistant", "reasoning_expert", "multilingual", "math_expert", "code_expert"]
+},
+{
+  "model": "Google: Gemma 7B",
+ "labels": ["general_assistant"]
+},
+{
+ "model": "OpenAI: GPT-3.5 Turbo (older v0613)",
+"labels":["general_assistant", "code_expert", "math_expert"]
+},
+{
+"model": "OpenAI: GPT-4 Turbo Preview",
+"labels":["general_assistant", "reasoning_expert", "multimodal", "math_expert", "code_expert"]
+},
+{
+  "model": "Nous: Hermes 2 Mixtral 8x7B DPO",
+ "labels": ["general_assistant", "instruction_following", "creative_writer"]
+},
+{
+ "model": "Mistral Small",
+ "labels": ["general_assistant"]
+},
+{
+ "model":"Mistral Tiny",
+  "labels":["general_assistant"]
+},
+{
+ "model":"Mistral Medium",
+"labels":["general_assistant", "reasoning_expert"]
+},
+{
+"model": "Dolphin 2.6 Mixtral 8x7B 🐬",
+ "labels": ["general_assistant", "instruction_following"]
+},
+{
+ "model": "Google: Gemini Pro Vision 1.0",
+  "labels":["vision_expert", "general_assistant", "math_expert", "code_expert"]
+},
+{
+"model":"Google: Gemini Pro 1.0",
+ "labels": ["general_assistant", "math_expert", "code_expert"]
+},
+{
+ "model": "Mistral: Mixtral 8x7B (base)",
+ "labels":["general_assistant"]
+},
+{
+  "model":"Mistral: Mixtral 8x7B Instruct",
+  "labels": ["general_assistant", "instruction_following", "code_expert", "math_expert"]
+},
+{
+ "model": "OpenChat 3.5 7B (free)",
+ "labels":["general_assistant", "conversationalist", "free"]
+},
+{
+ "model":"OpenChat 3.5 7B",
+  "labels":["general_assistant", "conversationalist"]
+},
+{
+"model":"Noromaid 20B",
+ "labels":["general_assistant", "creative_writer"]
+},
+{
+  "model":"Anthropic: Claude v2 (self-moderated)",
+ "labels":["general_assistant", "safety_focused"]
+},
+{
+"model": "Anthropic: Claude v2",
+ "labels": ["general_assistant"]
+},
+{
+ "model": "Anthropic: Claude v2.1 (self-moderated)",
+ "labels":["general_assistant", "safety_focused"]
+},
+  {
+    "model": "Anthropic: Claude v2.1",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "OpenHermes 2.5 Mistral 7B",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "Toppy M 7B (free)",
+    "labels": ["general_assistant", "free"]
+  },
+  {
+    "model": "Toppy M 7B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Goliath 120B",
+    "labels": ["general_assistant"]
+  },
+  {
+      "model": "Auto Router",
+      "labels":["general_assistant"]
+  },
+  {
+    "model": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
+    "labels": ["general_assistant", "code_expert", "math_expert"]
+  },
+  {
+    "model": "OpenAI: GPT-4 Turbo (older v1106)",
+    "labels": ["general_assistant", "reasoning_expert", "multimodal", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Google: PaLM 2 Chat 32k",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Google: PaLM 2 Code Chat 32k",
+    "labels": ["code_expert"]
+  },
+  {
+    "model": "Airoboros 70B",
+    "labels": ["general_assistant", "creative_writer"]
+  },
+  {
+    "model": "Xwin 70B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "OpenAI: GPT-3.5 Turbo Instruct",
+    "labels": ["general_assistant", "instruction_following", "code_expert", "math_expert"]
+  },
+  {
+    "model": "Mistral: Mistral 7B Instruct v0.1",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Pygmalion: Mythalion 13B",
+    "labels": ["general_assistant", "creative_writer"]
+  },
+  {
+    "model": "OpenAI: GPT-3.5 Turbo 16k",
+    "labels": ["general_assistant", "code_expert", "math_expert"]
+  },
+  {
+    "model": "OpenAI: GPT-4 32k",
+    "labels": ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+  },
+  {
+    "model": "OpenAI: GPT-4 32k (older v0314)",
+    "labels": ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+  },
+  {
+    "model": "Nous: Hermes 13B",
+    "labels": ["general_assistant", "creative_writer"]
+  },
+  {
+    "model": "Mancer: Weaver (alpha)",
+    "labels": ["general_assistant", "creative_writer"]
+  },
+  {
+    "model": "Hugging Face: Zephyr 7B (free)",
+    "labels": ["general_assistant", "instruction_following", "free"]
+  },
+  {
+    "model": "Anthropic: Claude v2.0 (self-moderated)",
+    "labels": ["general_assistant", "safety_focused"]
+  },
+  {
+    "model": "Anthropic: Claude v2.0",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "ReMM SLERP 13B",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Google: PaLM 2 Chat",
+    "labels": ["general_assistant"]
+  },
+  {
+    "model": "Google: PaLM 2 Code Chat",
+    "labels": ["code_expert"]
+  },
+  {
+    "model": "MythoMax 13B (free)",
+    "labels": ["general_assistant", "creative_writer", "free"]
+  },
+  {
+    "model": "MythoMax 13B",
+    "labels": ["general_assistant", "creative_writer"]
+  },
+ {
+    "model": "Meta: Llama 2 13B Chat",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "Meta: Llama 2 70B Chat",
+    "labels": ["general_assistant", "instruction_following"]
+  },
+  {
+    "model": "OpenAI: GPT-3.5 Turbo",
+    "labels": ["general_assistant", "code_expert", "math_expert"]
+  },
+  {
+    "model": "OpenAI: GPT-3.5 Turbo 16k",
+    "labels": ["general_assistant", "code_expert", "math_expert"]
+  },
+  {
+    "model": "OpenAI: GPT-4",
+    "labels": ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+  },
+  {
+    "model": "OpenAI: GPT-4 (older v0314)",
+    "labels": ["general_assistant", "reasoning_expert", "math_expert", "code_expert"]
+  }
+]
